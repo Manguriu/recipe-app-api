@@ -1,0 +1,5 @@
+#best practices to buld in one version and upgrade it later with the newer versions
+
+Django>=3.2.4,<3.3
+djangorestframework>=3.12.4,<3.13
+
